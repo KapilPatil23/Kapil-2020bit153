@@ -1,0 +1,37 @@
+11)
+   select *
+   from Customers
+   where id is(
+       select id from Orders
+   );
+
+12)
+     select customer_id , avg(gross_total) as avg_order
+     from orders
+     group by customer_id;
+
+
+13)
+
+  Alter Customers
+  set city ="Mumbai" where city="Delhi"; 
+
+14)
+   alter logs
+   drop *
+   where date_time< 1/1/2023;
+  
+
+15)
+   SELECT * FROM Employee
+   order by salary DESC;
+   LIMIT 5;
+
+16)
+   SELECT count(Customer_id) as no_of_orders FROM orders
+   group by Customer_id
+   order by no_of_orders desc
+   limit 3;
+  
+
+  

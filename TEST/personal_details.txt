@@ -1,0 +1,11 @@
+Name of the Student : Kapil Arun Patil
+
+Name Of the Project : Used car price prediction Using Machine learning.
+
+Theme of the project with Objective : Predicting the price of second hand cars.
+                                      used python and flask framework.
+                                      simple Inetrface for users using flask.
+Career aspirations and goals : To get job in good company, leanr new skills, enhance skills.
+Subject of Interest : Web Development, DBMS, operating System, machine learning, software development
+             
+
